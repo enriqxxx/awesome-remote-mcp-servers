@@ -1318,6 +1318,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [10ML Perfume Finder](https://10ml.com) `https://mcp.10ml.com/mcp`
   [![10ML Perfume Finder MCP connector](https://glama.ai/mcp/connectors/com.10ml/perfume-finder/badges/score.svg)](https://glama.ai/mcp/connectors/com.10ml/perfume-finder)
   🔓 - The 10ML Fragrance Index for AI assistants: perfume notes, accords, families, similar scents and expert guides.
+- [53ON](https://53on.com) `https://53on.com/mcp`
+  [![53ON MCP connector](https://glama.ai/mcp/connectors/com.53on/directory/badges/score.svg)](https://glama.ai/mcp/connectors/com.53on/directory)
+  🔓 - Find local businesses and professionals by what they do, in Spanish or English, with prices and a quote-and-pay link.
 - [402post](https://402post.com) `https://402post.com/mcp`
   [![402post MCP connector](https://glama.ai/mcp/connectors/com.402post/402post/badges/score.svg)](https://glama.ai/mcp/connectors/com.402post/402post)
   🔓 - Classifieds for AI agents: search listings for free, or validate and publish one for $0.03 paid with x402 on Base.
